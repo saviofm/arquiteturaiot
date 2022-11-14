@@ -1,0 +1,11 @@
+{
+	"name": "arquiteturaiot",
+	"description": "html5-apps",
+	"dependencies": {
+		"mbt": "^1.2.7"
+	},
+	"scripts": {
+		"build": "mbt build"
+	},
+	"version": "1.0.0"
+}
